@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src=" https://64.media.tumblr.com/97ffbffc48e0daa73fc3c030553cadda/56cc54c884cab4e4-38/s400x600/63d1f41252d8422a979540153bc44e7fb34b3e52.gif" height="175px"/></a>
 
-<h3 align="center">Hello there, I'm <a href="">FrierenWithLove</a> - I Love Frieren <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h3 align="center">Hello there, I'm <a href="">FrierenWithLove</a> - I Love Frieren <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 
 

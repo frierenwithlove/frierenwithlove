@@ -1,17 +1,17 @@
 <a href="#"><img width="100%" height="auto" src="https://media.discordapp.net/attachments/1200809846983905362/1210632302657409094/1340478.jpeg?ex=65eb4431&is=65d8cf31&hm=eb21f61a8f3f992485dc31a1fc68d8dd0cc68dabb30320f55488fa694d58b78e&=&format=webp&width=550&height=285" height="175px"/></a>
 
-<h3 align="center">Hello there, I'm <a href="">Norataisen</a> - WIBU NEVER DIE <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hello there, I'm <a href="">FrierenWithLove</a> - I Love Frieren <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100091729477173"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Norataisen?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://www.facebook.com/hoangnamlovegura/"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Norataisen?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ch%C3%A0o!+Just+a+Junior+dead+inside)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Xin+Ch%C3%A0o+!+T%C3%B4i+L%C3%A0+Ng%C6%B0%E1%BB%9Di+Vi%E1%BB%87t+Nam+%3A))](https://git.io/typing-svg)
 
 ## 📖 About me
 
 ```
-Norataisen@github
+hoangnamlovegura@gmail.com
 -------------------------
 💻 I am a self-taught full stack developer.
 🔭 Studying backend development.
@@ -31,7 +31,7 @@ P/s: from 🇻🇳 with 💖
 
 <p align="left">
   <a href=""><img alt="FB" title="FB" src="https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/></a>  
-  <a href="https://www.facebook.com/profile.php?id=100091729477173"><img alt="Intagram" title="intagram" src="https://img.shields.io/badge/-instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/hoangnamlovegura/"><img alt="Intagram" title="intagram" src="https://img.shields.io/badge/-instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 #
@@ -59,8 +59,8 @@ P/s: from 🇻🇳 with 💖
         public readonly national: string = "Viet Nam";
 
         constructor() {
-            this.realname = "Vo Huynh Quang Huy";
-            this.nickname =  "Norataisen";
+            this.realname = "Nguyen Hoang Nam";
+            this.nickname =  "FrierenWithLove";
         }
         
         public void doSomething() {
@@ -72,8 +72,8 @@ P/s: from 🇻🇳 with 💖
 ```python
     class Info:
         def __init__(self):
-            self._realname = "Vo Huynh Quang Huy"
-            self._nickname = "Norataisen"
+            self._realname = "Nguyen Hoang Nam"
+            self._nickname = "FrierenWithLove"
             self.national = "Viet Nam"
 
         def doSomething(self):
@@ -89,8 +89,8 @@ P/s: from 🇻🇳 with 💖
         char[] national
     public:  
       Info() : 
-        realname("Vo Huynh Quang Huy"), 
-        name("Norataisen"), 
+        realname("Nguyen Hoang Nam"), 
+        name("FrierenWithLove"), 
         national("Viet Nam")
       {} 
       void doSomething()
@@ -103,10 +103,10 @@ P/s: from 🇻🇳 with 💖
 
 ## 🤝 At the end
 
-If you have any questions about me or something else, feel free to <a href="mailto:nakanohuy5@gmail.com">contact me through email</a> me.
+If you have any questions about me or something else, feel free to <a href="mailto:hoangnamlovegura@gmail.com">contact me through email</a> me.
 
 > Peace and Love
 
-> "Quang Huy" - Miku
+> "Nguyen Hoang Nam" - Frieren
 
 [Dev]: [FB](https://www.facebook.com/profile.php?id=100091729477173)

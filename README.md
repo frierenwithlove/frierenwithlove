@@ -1,11 +1,9 @@
-<a href="#"><img width="100%" height="auto" src=" https://64.media.tumblr.com/97ffbffc48e0daa73fc3c030553cadda/56cc54c884cab4e4-38/s400x600/63d1f41252d8422a979540153bc44e7fb34b3e52.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.discordapp.net/attachments/1200809846983905362/1210632302657409094/1340478.jpeg?ex=65eb4431&is=65d8cf31&hm=eb21f61a8f3f992485dc31a1fc68d8dd0cc68dabb30320f55488fa694d58b78e&=&format=webp&width=550&height=285" height="175px"/></a>
 
-<h3 align="center">Hello there, I'm <a href="">FrierenWithLove</a> - I Love Frieren <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://camo.githubusercontent.com/ee9d678a838fdc800a7b1449bae75552c13bfa5afeb275eb6b315e02499c8ba0/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330)" width="28">
-
-
+<h3 align="center">Hello there, I'm <a href="">Norataisen</a> - WIBU NEVER DIE <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
-  <a href="https://www.facebook.com/hoangnamlovegura"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Norataisen?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100091729477173"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Norataisen?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ch%C3%A0o!+Just+a+Junior+dead+inside)](https://git.io/typing-svg)
